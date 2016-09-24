@@ -38,7 +38,7 @@ label{
   transition:0.2s ease all; 
   -moz-transition:0.2s ease all; 
   -webkit-transition:0.2s ease all;
-}
+} 
 input:focus ~ label, input:valid ~ label{
   top:-20px;
   font-size:14px;
